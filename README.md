@@ -51,7 +51,7 @@ It's as simple as that to use. Our project is at the fore-front of open city AI 
 
 ## Coverage
 
-OpenCityAI is currently trained to answer questions from [these cities](https://github.com/urbaninfolab/opencityai/main/cities.md).
+OpenCityAI is currently trained to answer questions from [these cities](https://github.com/urbaninfolab/opencityai/blob/main/cities.md).
 
 ### Contributing
 
