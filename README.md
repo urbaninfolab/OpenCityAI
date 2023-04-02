@@ -18,7 +18,7 @@
 
 </div>
 
-OpenCityAI is a state-of-the-art AI chatbot trained on a massive amount of public city information, making it able to generate answers for a variety of questions that people may have about their cities. It provides accurate responses with citations in a simple easy-to-use interface. OpenCityAI was developed with a focus on accuracy, and has been shown to perform with almost 10x the ability at answering city-based data questions as compared to current AI solutions. This project bridges the gap of being able to find specific information about a city, and allows anyone to access accurate information about any city immediately. 
+[OpenCityAI](https://opencityai.com/about) is a state-of-the-art AI chatbot trained on a massive amount of public city information, making it able to generate answers for a variety of questions that people may have about their cities. It provides accurate responses with citations in a simple easy-to-use interface. OpenCityAI was developed with a focus on accuracy, and has been shown to perform with almost 10x the ability at answering city-based data questions as compared to current AI solutions. This project bridges the gap of being able to find specific information about a city, and allows anyone to access accurate information about any city immediately. 
 
 _Note: As AI is a developing technology, OpenCityAI may occasionally generate incorrect or outdated information. The Urban Information Lab is committed to remedying these issues, and encourages you to [reach out](mailto:support@opencityai.com?subject=Bug%20Report&amp;body=Please%20describe%20the%20bug%20here.) if you find any instances of this._
 
@@ -28,7 +28,7 @@ _Note: As AI is a developing technology, OpenCityAI may occasionally generate in
 
 # Getting Started with OpenCityAI
 
-The website offers an accessible, conversational front-end:
+The website offers an [accessible, conversational front-end](https://opencityai.com):
 
 ![opencityaicover-modified](https://user-images.githubusercontent.com/96705270/228464757-faad4ff8-dff2-48ab-bcec-2282c11399f5.png)
 
@@ -48,6 +48,12 @@ For organizational purposes, OpenCityAI allows you to create and manage multiple
 ### That's it!
 
 It's as simple as that to use. Our project is at the fore-front of open city AI technology, and we hope that you will find it useful. Any question you have about public information from any U.S. city is just a search away with OpenCityAI.
+
+Click on the search-bar below to be redirected to [OpenCityAI](https://opencityai.com), and start your city data search.
+
+<p align="center">
+<a href="https://opencityai.com"><img src="https://user-images.githubusercontent.com/96705270/229372535-05d5665c-bd70-4ca2-b538-8afd097a5283.png" width="400" /></a>
+</p>
 
 ## Coverage
 
