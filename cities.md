@@ -1,4 +1,4 @@
-Below is a list of all of the current cities OpenCityAI is trained on. Please note that these are listed alphabetically by city name.
+Below is a list of all of the current cities [OpenCityAI](https://opencityai.com/) is trained on. Please note that these are listed alphabetically by city name.
 
 If you know a city we have not listed here that provides public city data, let us know at our [support email](mailto:support@opencityai.com?subject=City%20Request&amp;body=Please%20name%20the%20city%20and%20include%20the%20publicly%20accessible%20city%20data%20URL%20here.).
 
