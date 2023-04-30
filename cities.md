@@ -14,7 +14,7 @@ If you know a city we have not listed here that provides public city data, let u
 | Augusta, Georgia | February 24, 2023 |
 | Aurora, Colorado | February 24, 2023 |
 | Austin, Minnesota | February 24, 2023 |
-| Austin, Texas | February 24, 2023 |
+| Austin, Texas | January 30, 2023 |
 | Bakersfield, California | February 24, 2023 |
 | Baltimore, Maryland | February 24, 2023 |
 | Baton Rouge, Louisiana | February 24, 2023 |
