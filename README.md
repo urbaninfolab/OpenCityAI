@@ -7,14 +7,14 @@
 
 [![latest release badge]][latest release link] [![github stars badge]][github stars link] [![github forks badge]][github forks link]
 
-[github forks badge]: https://flat.badgen.net/github/forks/urbaninfolab/FireIncidentBackend?icon=github
-[github forks link]: https://useful-forks.github.io/?repo=urbaninfolab%2FFireIncidentBackend
-[github stars badge]: https://flat.badgen.net/github/stars/urbaninfolab/FireIncidentBackend?icon=github
-[github stars link]: https://github.com/urbaninfolab/FireIncidentBackend/stargazers
-[latest commit to main badge]: https://flat.badgen.net/github/last-commit/urbaninfolab/FireIncidentBackend/main?icon=github&color=yellow&label=last%20dev%20commit&cache=900
-[latest commit to main link]: https://github.com/urbaninfolab/FireIncidentBackend/commits/main
-[latest release badge]: https://flat.badgen.net/github/release/urbaninfolab/FireIncidentBackend/development?icon=github
-[latest release link]: https://github.com/urbaninfolab/FireIncidentBackend/releases
+[github forks badge]: https://flat.badgen.net/github/forks/urbaninfolab/OpenCityAI?icon=github
+[github forks link]: https://useful-forks.github.io/?repo=urbaninfolab%2FOpenCityAI
+[github stars badge]: https://flat.badgen.net/github/stars/urbaninfolab/OpenCityAI?icon=github
+[github stars link]: https://github.com/urbaninfolab/OpenCityAI/stargazers
+[latest commit to main badge]: https://flat.badgen.net/github/last-commit/urbaninfolab/OpenCityAI/main?icon=github&color=yellow&label=last%20dev%20commit&cache=900
+[latest commit to main link]: https://github.com/urbaninfolab/OpenCityAI/commits/main
+[latest release badge]: https://flat.badgen.net/github/release/urbaninfolab/OpenCityAI/development?icon=github
+[latest release link]: https://github.com/urbaninfolab/OpenCityAI/releases
 
 </div>
 
