@@ -55,6 +55,11 @@ Click on the search-bar below to be redirected to [OpenCityAI](https://opencitya
 <a href="https://opencityai.com"><img src="https://user-images.githubusercontent.com/96705270/229372535-05d5665c-bd70-4ca2-b538-8afd097a5283.png" width="400" /></a>
 </p>
 
+## Supported Languages
+OpenCityAI is able to converse in 30+ languages for your convenience.
+
+English, Arabic, Azerbaijani, Catalan, Chinese, Czech, Danish, Dutch, Esperanto, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Irish, Italian, Japanese, Korean, Persian, Polish, Portuguese, Russian, Slovak, Spanish, Swedish, Turkish, Ukranian
+
 ## Coverage
 
 OpenCityAI is currently trained to answer questions from [these cities](https://github.com/urbaninfolab/opencityai/blob/main/cities.md).
