@@ -55,6 +55,15 @@ Click on the search-bar below to be redirected to [OpenCityAI](https://opencitya
 <a href="https://opencityai.com"><img src="https://user-images.githubusercontent.com/96705270/229372535-05d5665c-bd70-4ca2-b538-8afd097a5283.png" width="400" /></a>
 </p>
 
+## Mobile Support
+OpenCityAI is now available on all Android devices as an app on the Google Play Store. Check it out at the below link or by clicking the banner:
+
+[OpenCityAI - AI for City Data on Google Play](https://play.google.com/store/apps/details?id=com.seanhlewis.opencityai)
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.seanhlewis.opencityai"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/268316580-e8ae24f1-ce5b-40f1-b3dd-e1f35e88d109.png" width=""/></a>
+</p>
+
 ## Supported Languages
 OpenCityAI is able to converse in 30+ languages for your convenience.
 
