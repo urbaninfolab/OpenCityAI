@@ -61,7 +61,7 @@ OpenCityAI is now available on all Android devices as an app on the Google Play 
 [OpenCityAI - AI for City Data on Google Play](https://play.google.com/store/apps/details?id=com.seanhlewis.opencityai)
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.seanhlewis.opencityai"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/268316580-e8ae24f1-ce5b-40f1-b3dd-e1f35e88d109.png" width=""/></a>
+<a href="https://play.google.com/store/apps/details?id=com.seanhlewis.opencityai"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/271220601-a2ab6a0c-266e-4f20-ad1c-2cfe8d066f34.png" width=""/></a>
 </p>
 
 ## Supported Languages
